@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/charlotte-otoole/charlotte-otoole/raw/main/the-mirror-convergence-cover-1.jpg" alt="the mirror (img-1) by : Convergence Human And Technology" width="100%" height="100%">
+  <img src="https://github.com/charlotte-otoole/the-mirro/raw/main/the-mirror-convergence-cover-1.jpg" alt="the mirror (img-1) by : Convergence Human And Technology" width="100%" height="100%">
 </p>
 
 # The Mirror
