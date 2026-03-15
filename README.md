@@ -6,6 +6,8 @@ The Mirror - Next Generation Desktop Experience - The Mirror is a revolutionary 
 © 2026 Convergence - Human & Technology
 All Rights Reserved
 
+. <a href="https://github.com/Convergence-Human-And-Technology" target="_blank" rel="noopener noreferrer">Convergence Human And Technology</a>
+
 This software is proprietary and confidential.
 Unauthorized use is prohibited.
 
