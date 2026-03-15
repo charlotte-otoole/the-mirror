@@ -20,9 +20,12 @@ For licensing, contact : encrypt-free.74.mq2fl@aleeeas.com
 #
 
 Organization : Convergence - Human & Technology
+
 Authors : Charlotte O' Toole, Fabien Conéjéro
+
 - https://github.com/charlotte-otoole/the-mirror
 - https://github.com/madjeek-web
+
 Product : The Mirror
 Date : March 3, 2026
 Version : 1.0
